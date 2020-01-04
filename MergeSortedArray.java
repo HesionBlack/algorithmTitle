@@ -27,5 +27,3 @@ class Solution {
 	        System.arraycopy(nums2,0,nums1,1,p2+1)
     }
 }
-
-@晨晨@极客大学【5647-算法题提交】
